@@ -2,7 +2,7 @@
 
 ## Sobre o projeto:
 
-Pequeno projeto desenvolvido no curso sobre Hooks do React. Nesse caso está sendo utilizado o Hook useState para acessar e renderizar o valor da varíável numero aleatório, alterar o seu valor e renderizar novamente esse valor através da funcão gerarNumero que é disparada pelo botão Gerar número
+Pequeno projeto desenvolvido no curso sobre Hooks do React. Cada clique no botão Gerar Número retorna um número aleatório, para isso foi utilizado o Hook useState para acessar e renderizar o valor da varíável número aleatório, alterar o seu valor e renderizar novamente esse valor através da funcão **gerarNumero** que é disparada pelo botão Gerar número
 
 ## Tecnologias usadas no projeto:
 
@@ -31,6 +31,9 @@ React
 6 - Digite **npm install**  e pressione Enter para instalar as dependências do projeto.
 
 7 - Digite **npm start** e pressione Enter para inicializar a aplicação.
+
+# Layout:
+![Web](https://github.com/JeanSouza911/aula_react_useState/blob/master/public/aula_react.png)
 
 # Autor:
 
