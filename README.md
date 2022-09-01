@@ -6,12 +6,6 @@ Pequeno projeto desenvolvido no curso sobre Hooks do React. Cada clique no botã
 
 ## Tecnologias usadas no projeto:
 
-HTML
-
-CSS
-
-JavaScript
-
 React
 
 ## Rode o projeto na sua máquina:
