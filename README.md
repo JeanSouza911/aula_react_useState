@@ -8,6 +8,8 @@ Pequeno projeto desenvolvido no curso sobre Hooks do React. Cada clique no botã
 
 React
 
+Css
+
 ## Rode o projeto na sua máquina:
 
 É necessário ter o Node instalado na sua máquina. Caso não tenha faça o download: https://nodejs.org/pt-br/download/
