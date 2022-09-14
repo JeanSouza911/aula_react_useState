@@ -18,7 +18,7 @@ Css
 
 2 - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 
-3 - Digite **git clone https://github.com/JeanSouza911/aula_react_useState** para clonar o repositório.
+3 - Digite **git clone https://github.com/JeanSouza911/aula_react_useState.git** para clonar o repositório.
 
 4 - Pressione Enter para criar seu clone local.
 
